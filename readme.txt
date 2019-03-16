@@ -5,3 +5,5 @@ dev
 devdev
 
 master
+
+devdev   --no-ff
